@@ -4,7 +4,6 @@ import java.util.Arrays;
 
 public class TestMedian {
 
-
     public static void main(String[] args) {
         if (args.length == 0) {
             System.err.println("Supply the number of tests to run on the command line.");
