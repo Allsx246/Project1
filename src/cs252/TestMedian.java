@@ -16,8 +16,7 @@ public class TestMedian {
             System.out.println("Passed all " + n + " tests.");
         }
     }
-
-
+    
     private static boolean test(int numTests) {
         double[] inputs = { 1.0, 4.0, 6.5, 2.4, 24.0, 5.0 };
         double[] expected = { 1.0, 2.5, 4.0, 3.2, 4.0, 4.5 };
