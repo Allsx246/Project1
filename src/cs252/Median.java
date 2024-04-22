@@ -16,6 +16,7 @@ public class Median {
     public Median(double[] values) {
         this.values = values;
     }
+    
     /**
      * Compute the median average of the supplied values.
      * @return the median average
